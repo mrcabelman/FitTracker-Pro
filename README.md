@@ -1,5 +1,7 @@
 # 🛠️ Development Log: FitTracker Pro: A Minimal Gym Progress Tracker by Abel Gutierrez
 
+http://abel-gym-progress-app.s3-website-us-east-1.amazonaws.com/
+
 ---
 
 ## 💡 Project Overview
@@ -97,6 +99,7 @@ For my next iteration of this evolving project, here are my plans, as this is fo
 - Include an SSO feature where one can log in with their Google and Microsoft accounts, and log their workouts.
 - Include feature where instead of looking at the "Name" field to fetch workouts, we look at the email used to log in.
 - Include AI features to give suggestions on how to steadily improve based on past workout history and notes submitted with each workout.
+- Add HTTPS/SSL into domain.
 
 ---
 
