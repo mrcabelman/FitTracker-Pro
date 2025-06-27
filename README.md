@@ -1,4 +1,4 @@
-# 🛠️ Development Log: FitTracker Pro: A Minimal Gym Progress Tracker by Abel Gutierrez
+# 🛠️ Development Log: FitTracker Pro: An AWS-based Minimal Gym Progress Tracker by Abel Gutierrez
 
 http://abel-gym-progress-app.s3-website-us-east-1.amazonaws.com/
 
